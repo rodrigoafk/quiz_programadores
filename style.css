@@ -50,10 +50,10 @@ select{
     border-radius: 7px;
     outline: none;
 }
-img{
+/*img{
     width: 15rem;
     border-radius: 7px;
-}
+}*/
 table{
     width: 100%;
     border-collapse: collapse;
